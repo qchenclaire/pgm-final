@@ -1,4 +1,5 @@
 ## CRFs as Mask Refinement for Binary Segmentation
+This is the code for project of Machine Learning: Data to Models. A description of the project can be found at: https://www.overleaf.com/read/vqnfkjpvkpfj
 
 1. Prepare Dataset to train FCNs:
 Download DAVIS-2017-trainval-Full-Resolution from https://davischallenge.org/davis2017/code.html
